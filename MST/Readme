@@ -1,0 +1,13 @@
+To do the experiment, we need compile the java files first.
+
+Use terminal and type these commands below:
+
+javac -d . Edges.java Graph.java RunExperiments.java
+chmod 777 runTest.sh
+./runTest.sh
+
+For first command, you will get a src file and several class files in it.
+For second command, we just want to make sure you have the authority to run the shell script.
+The last command is to run the shell script and you can get the result in results file.
+
+For this experiment, I ran my code on a Mac OS.
